@@ -1,0 +1,17 @@
+Step,Status,Clock Time,Elapsed (s),Note
+Skip Review,PASS,15:04:31,11.05,
+Ride Share,PASS,15:04:34,13.54,
+Type Drop Off,PASS,15:04:35,14.48,Typed 'mirpur'
+Select Suggestion,PASS,15:04:36,15.95,Exact XPath
+Continue,PASS,15:04:37,16.34,
+Confirm Pickup,PASS,15:04:39,18.57,
+Submission,PASS,15:04:39,18.57,Flow completed: request submitted.
+Video Saved,INFO,15:04:41,20.36,recordings\rideshare_run__20251020_150440.mp4
+Skip Review,PASS,15:05:57,9.11,
+Ride Share,PASS,15:06:00,11.5,
+Type Drop Off,PASS,15:06:01,12.42,Typed 'mirpur'
+Select Suggestion,PASS,15:06:03,14.54,Exact XPath
+Continue,PASS,15:06:03,14.96,
+Confirm Pickup,PASS,15:06:06,17.21,
+Submission,PASS,15:06:06,17.21,Flow completed: request submitted.
+Video Saved,INFO,15:06:07,19.17,recordings\rideshare_run__20251020_150607.mp4
